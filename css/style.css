@@ -1,0 +1,56 @@
+body{
+    font-family: 'Comfortaa', cursive;
+    background-image: url(https://i.pinimg.com/564x/b6/9f/e5/b69fe5152f40a6d153e32c88a011317f.jpg);
+    background-size: cover;
+}
+
+.titulo{
+    margin-top: 20px;
+}
+
+.logo{
+    width: 5%;
+    border: black solid 2px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.menu{
+margin: 5px;
+margin-bottom: 20px;
+}
+
+.menuppal{
+margin-left: 280px;
+}
+
+.nav-item{
+    margin: 0px 40px;
+}
+
+.carrusel{
+    margin: 10px 180px;
+}
+
+.presentacion{
+    margin: 25px;
+}
+
+.bloques{
+    margin: 30px 0px 30px 250px;
+}
+
+.hayao{
+    width: 50%;
+}
+
+.hayaoDos{
+    width: 20%;
+}
+
+.footerImg{
+    width: 20%;
+    border: black solid 2px;
+    border-radius: 50%;
+    margin-left: 70px;
+}
